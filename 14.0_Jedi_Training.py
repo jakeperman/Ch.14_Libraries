@@ -6,3 +6,5 @@ import the Box Class into your main program. No need to pull request this. Just 
 it to work. Use if __name__ =="__main__":
 
 '''
+
+from thirty_box import Box
